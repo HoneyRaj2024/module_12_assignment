@@ -1,6 +1,8 @@
 # module_12_assignment
 
-A new Flutter project.
+## Video
+https://github.com/HoneyRaj2024/module_12_assignment/assets/160201096/433299f1-cfc7-4669-9f25-da3d0dd7764c
+
 ## Splash Screen
 ![Splash Screen](https://github.com/HoneyRaj2024/module_12_assignment/assets/160201096/2742c9da-b02c-4cc7-b4a3-ef6e12f8b612)
 
